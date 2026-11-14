@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Grabar y Hashear
+Comment=Inicia Kazam y sella el video con SHA-256 al finalizar
+Exec=/bin/bash -c "/home/tsurugi/automatizacion_kazam.sh"
+Icon=media-record
+Terminal=true
+StartupNotify=true
+Categories=Utility;
